@@ -2,6 +2,8 @@
 
 Implementation of dichotomous search in MATLAB for easy and efficient understanding of the concept
 
+🎥 **YouTube Video:**  https://youtu.be/CWhskTpxdl0
+
 ![image](https://github.com/syed-azim-git/Dichotonomous_Search/assets/99604368/4546538c-88d4-495f-aa82-6596037b3162)
 
 ![image](https://github.com/syed-azim-git/Dichotonomous_Search/assets/99604368/491c3008-5f71-4e66-8258-8d9b26b8d283)
